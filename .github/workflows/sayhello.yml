@@ -13,4 +13,7 @@ jobs:
     steps:
     - name: Eche te mensaje
       run: hecho Hola jorgeguaop
+    - name: dime la fecha
+      run: date
+    - run: ls -l
 
